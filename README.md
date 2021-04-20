@@ -7,7 +7,7 @@
 - 🌱 I’m currently working on personal projects that can be put forth on my resume.
 - 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/am-ram/)
 
-![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=am-ram&show_icons=true&theme=tokyonight)
+<p align="center">![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=am-ram&show_icons=true&theme=tokyonight)</p>
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 
