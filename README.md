@@ -6,6 +6,8 @@
 - 👀 I’m fascinated by Machine Learning and Data Science and would love to pursue a career in this domain.
 - 🌱 I’m currently working on personal projects that can be put forth on my resume.
 - 📫 You can reach me through my [LinkedIn](https://www.linkedin.com/in/am-ram/)
+
+![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
 
