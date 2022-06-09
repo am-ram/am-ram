@@ -1,7 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <img src="image.png" width="450" title="Hello There!!">
-</p>
-
+</p> -->
+<script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+<lottie-player src="https://assets2.lottiefiles.com/packages/lf20_cmaqoazd.json"  background="transparent"  speed="1"  style="width: 300px; height: 300px;"  loop controls autoplay></lottie-player>
 - 👋 Hi, I’m Sai Ram. I am a Computer Science Student currently in my third year.
 - 👀 I’m fascinated by Machine Learning and Data Science and would love to pursue a career in this domain.
 - 🌱 I’m currently working on personal projects that can be put forth on my resume.
